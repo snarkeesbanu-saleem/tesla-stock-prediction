@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Stock Prediction",
+  "description": "An interactive deep learning and sentiment analysis platform for predicting Tesla (TSLA) stock prices using SimpleRNN, LSTM, and NLP sentiment indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

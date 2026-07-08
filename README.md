@@ -2,6 +2,8 @@
 
 A high-performance interactive deep learning simulation and exploratory quantitative analytics platform designed for Tesla (TSLA) stock data. This Python application integrates advanced mathematical models, interactive neural network configurations (LSTM, SimpleRNN), natural language processing indicators, and interactive sentiment indexing.
 
+**🔗 Deployed Live Application**: [tesla-stock-prediction-felnadqvxkiagt3fwxbixe.streamlit.app](https://tesla-stock-prediction-felnadqvxkiagt3fwxbixe.streamlit.app/)
+
 Designed with a premium dark executive design system, the dashboard supports multiple highly appealing, high-contrast dark colorways and fully customized data visualizations using Plotly and Streamlit.
 
 ---
